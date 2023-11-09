@@ -69,7 +69,7 @@ Vamos construir o futuro juntos!
 <!-- Seção da Snake Animation -->
 <!-- Adicione o script da "Snake animation" -->
 <p align="center">
-  <img src="https://github.com/leonardomiranda132/leonardomiranda132/raw/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=leonardomiranda132&theme=dark" alt="Snake animation" />
 </p>
 
 
