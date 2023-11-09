@@ -11,5 +11,16 @@
   <br>
 </div>
 
+<!-- LinkedIn -->
+<a href="https://www.linkedin.com/in/seu-usuario/">
+  <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" width="48" height="48" />
+</a>
+
+<!-- GitHub -->
+<a href="https://github.com/seu-usuario/">
+  <img src="https://img.icons8.com/color/48/000000/github--v1.png" alt="GitHub" width="48" height="48" />
+</a>
+
+
 <!-- Seção do rodapé -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=FF0000&height=120&section=footer"/>
