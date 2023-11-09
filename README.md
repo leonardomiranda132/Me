@@ -56,4 +56,21 @@ Vamos construir o futuro juntos!
 <!-- Adicione o script da "Snake animation" -->
 <p align="center">
   <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</p
+</p>
+
+<!-- LinkedIn e GitHub alinhados -->
+<div align="center">
+  <a href="https://www.linkedin.com/in/leonardo-miranda-437335252/">
+    <img src="https://img.icons8.com/color/48/0077B5/linkedin.png" alt="LinkedIn" width="48" height="48" />
+  </a>
+  <a href="https://github.com/leonardomiranda132/">
+    <img src="https://img.icons8.com/color/48/0077B5/github--v1.png" alt="GitHub" width="48" height="48" />
+  </a>
+  <!-- Botão Follow do GitHub -->
+  <a href="https://github.com/leonardomiranda132" target="_blank">
+    <img src="https://img.shields.io/github/followers/leonardomiranda132?label=Follow&style=social" alt="GitHub Follow Badge" />
+  </a>
+</div>
+
+<!-- Seção do rodapé -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0077B5&height=120&section=footer"/>
