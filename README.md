@@ -12,7 +12,6 @@ Atualmente, atuo como Analista de Suporte Técnico na empresa Alphabeto, onde de
 
 Estou comprometido com a excelência e apaixonado por explorar novas tecnologias. Além das habilidades técnicas, possuo fluência em inglês e estou sempre em busca de desafios que possam expandir meu conhecimento e contribuir para projetos inovadores.
 
-Fique à vontade para entrar em contato comigo através do [e-mail](mailto:leonardomirandasjn@gmail.com) ou [LinkedIn](https://www.linkedin.com/in/leonardo-miranda-437335252/).
 
 Vamos construir o futuro juntos!
 
@@ -47,6 +46,12 @@ Vamos construir o futuro juntos!
   <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS" width="48" height="48" />
 </p>
 
+<!-- Seção de estatísticas do GitHub com cor personalizada -->
+## Minhas Estatísticas no GitHub
+
+![Minhas Estatísticas no GitHub](https://github-readme-stats.vercel.app/api?username=leonardomiranda132&show_icons=true&theme=radical&title_color=0077B5)
+
+
 <!-- LinkedIn e GitHub alinhados -->
 <div align="center">
   <a href="https://www.linkedin.com/in/leonardo-miranda-437335252/">
@@ -61,10 +66,7 @@ Vamos construir o futuro juntos!
   </a>
 </div>
 
-<!-- Seção de estatísticas do GitHub com cor personalizada -->
-## Minhas Estatísticas no GitHub
 
-![Minhas Estatísticas no GitHub](https://github-readme-stats.vercel.app/api?username=leonardomiranda132&show_icons=true&theme=radical&title_color=0077B5)
 
 <!-- Seção do rodapé -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0077B5&height=120&section=footer"/>
