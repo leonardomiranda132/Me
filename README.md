@@ -47,17 +47,6 @@ Vamos construir o futuro juntos!
   <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS" width="48" height="48" />
 </p>
 
-<!-- Seção de estatísticas do GitHub com cor personalizada -->
-## Minhas Estatísticas no GitHub
-
-![Minhas Estatísticas no GitHub](https://github-readme-stats.vercel.app/api?username=leonardomiranda132&show_icons=true&theme=radical&title_color=0077B5)
-
-<!-- Seção da Snake Animation -->
-<!-- Adicione o script da "Snake animation" -->
-<p align="center">
-  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</p>
-
 <!-- LinkedIn e GitHub alinhados -->
 <div align="center">
   <a href="https://www.linkedin.com/in/leonardo-miranda-437335252/">
@@ -71,6 +60,19 @@ Vamos construir o futuro juntos!
     <img src="https://img.shields.io/github/followers/leonardomiranda132?label=Follow&style=social" alt="GitHub Follow Badge" />
   </a>
 </div>
+
+<!-- Seção de estatísticas do GitHub com cor personalizada -->
+## Minhas Estatísticas no GitHub
+
+![Minhas Estatísticas no GitHub](https://github-readme-stats.vercel.app/api?username=leonardomiranda132&show_icons=true&theme=radical&title_color=0077B5)
+
+<!-- Seção da Snake Animation -->
+<!-- Adicione o script da "Snake animation" -->
+<p align="center">
+  <img src="https://github.com/leonardomiranda132/leonardomiranda132/raw/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
+
+
 
 <!-- Seção do rodapé -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0077B5&height=120&section=footer"/>
