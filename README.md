@@ -10,6 +10,7 @@
   <p align="center" style="color:#0077B5"><img align="center" src="https://profile-counter.glitch.me/leonardomiranda132/count.svg" /></p>
   <br>
 </div>
+
 <!-- Seção de habilidades -->
 ## Minhas Habilidades
 
@@ -18,12 +19,10 @@
 - Machine Learning
 - Banco de Dados
 
-
 <!-- Seção de estatísticas do GitHub com cor personalizada -->
 ## Minhas Estatísticas no GitHub
 
 [![Minhas Estatísticas no GitHub](https://github-readme-stats.vercel.app/api?username=leonardomiranda132&show_icons=true&theme=radical&title_color=0077B5)](https://github.com/leonardomiranda132)
-
 
 <!-- LinkedIn e GitHub alinhados -->
 <div align="center">
