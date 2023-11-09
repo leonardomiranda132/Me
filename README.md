@@ -3,16 +3,6 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0077B5&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Leonardo+Miranda;I+am+a+student+of+analysis+and+Systems+Development;In+the+Estácio+de+Sá+University+of+Juiz+de+Fora;Be+welcome!)](https://git.io/typing-svg)
 
-
-
-<!-- Seção de contador de visitantes -->
-<div align="center">
-  <br>
-  <p align="center" style="color:#0077B5"><b>Visitors Count</b></p>
-  <p align="center" style="color:#0077B5"><img align="center" src="https://profile-counter.glitch.me/leonardomiranda132/count.svg" /></p>
-  <br>
-</div>
-
 <!-- Seção de Bio -->
 ## Sobre Mim
 
@@ -22,7 +12,17 @@ Atualmente, atuo como Analista de Suporte Técnico na empresa Alphabeto, onde de
 
 Estou comprometido com a excelência e apaixonado por explorar novas tecnologias. Além das habilidades técnicas, possuo fluência em inglês e estou sempre em busca de desafios que possam expandir meu conhecimento e contribuir para projetos inovadores.
 
+Fique à vontade para entrar em contato comigo através do [e-mail](mailto:leonardomirandasjn@gmail.com) ou [LinkedIn](https://www.linkedin.com/in/leonardo-miranda-437335252/).
+
 Vamos construir o futuro juntos!
+
+<!-- Seção de contador de visitantes -->
+<div align="center">
+  <br>
+  <p align="center" style="color:#0077B5"><b>Visitors Count</b></p>
+  <p align="center" style="color:#0077B5"><img align="center" src="https://profile-counter.glitch.me/leonardomiranda132/count.svg" /></p>
+  <br>
+</div>
 
 <!-- Seção de habilidades -->
 ## Minhas Habilidades
@@ -52,19 +52,15 @@ Vamos construir o futuro juntos!
 
 ![Minhas Estatísticas no GitHub](https://github-readme-stats.vercel.app/api?username=leonardomiranda132&show_icons=true&theme=radical&title_color=0077B5)
 
+<!-- Seção da Snake Animation -->
+<!-- Adicione o script da "Snake animation" -->
+<p align="center">
+  <img src="https://github.com/leonardomiranda132/leonardomiranda132/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
+
 <!-- LinkedIn e GitHub alinhados -->
 <div align="center">
   <a href="https://www.linkedin.com/in/leonardo-miranda-437335252/">
     <img src="https://img.icons8.com/color/48/0077B5/linkedin.png" alt="LinkedIn" width="48" height="48" />
   </a>
-  <a href="https://github.com/leonardomiranda132/">
-    <img src="https://img.icons8.com/color/48/0077B5/github--v1.png" alt="GitHub" width="48" height="48" />
-  </a>
-  <!-- Botão Follow do GitHub -->
-  <a href="https://github.com/leonardomiranda132" target="_blank">
-    <img src="https://img.shields.io/github/followers/leonardomiranda132?label=Follow&style=social" alt="GitHub Follow Badge" />
-  </a>
-</div>
-
-<!-- Seção do rodapé -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0077B5&height=120&section=footer"/>
+  <
