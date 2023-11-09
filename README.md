@@ -52,6 +52,14 @@ Vamos construir o futuro juntos!
 ![Minhas Estatísticas no GitHub](https://github-readme-stats.vercel.app/api?username=leonardomiranda132&show_icons=true&theme=radical&title_color=0077B5)
 
 
+
+## 📊 Estatistica
+  <div style="display: inline_block"">
+  <a href="https://github.com/leonardomiranda132">
+  <img height="180em" src="https://github-readme-stats-ip8i-imnascimento.vercel.app/api?username=leonardomiranda132&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="120em" src="https://github-readme-stats-ip8i-imnascimento.vercel.app/api/top-langs/?username=leonardomiranda132&html,javascript,css&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+
 <!-- LinkedIn e GitHub alinhados -->
 <div align="center">
   <a href="https://www.linkedin.com/in/leonardo-miranda-437335252/">
