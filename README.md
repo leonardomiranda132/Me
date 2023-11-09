@@ -55,12 +55,5 @@ Vamos construir o futuro juntos!
 <!-- Seção da Snake Animation -->
 <!-- Adicione o script da "Snake animation" -->
 <p align="center">
-  <img src="https://github.com/leonardomiranda132/leonardomiranda132/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</p>
-
-<!-- LinkedIn e GitHub alinhados -->
-<div align="center">
-  <a href="https://www.linkedin.com/in/leonardo-miranda-437335252/">
-    <img src="https://img.icons8.com/color/48/0077B5/linkedin.png" alt="LinkedIn" width="48" height="48" />
-  </a>
-  <
+  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p
