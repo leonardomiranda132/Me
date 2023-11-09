@@ -51,10 +51,10 @@ Vamos construir o futuro juntos!
 ## 📊 Estatísticas
 <div style="display: inline_block">
   <a href="https://github.com/leonardomiranda132">
-    <img height="180em" src="https://github-readme-stats-ip8i-imnascimento.vercel.app/api?username=leonardomiranda132&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-    <img height="120em" src="https://github-readme-stats-ip8i-imnascimento.vercel.app/api/top-langs/?username=leonardomiranda132&html,javascript,css&layout=compact&langs_count=7&theme=radical"/>
+    <img height="180em" src="https://github-readme-stats-ip8i-imnascimento.vercel.app/api?username=leonardomiranda132&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true"/>
   </a>
 </div>
+
 
 
 <!-- LinkedIn e GitHub alinhados -->
