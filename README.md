@@ -14,15 +14,18 @@
 <!-- Seção de habilidades -->
 ## Minhas Habilidades
 
-- Desenvolvimento Web
-- Linguagens de Programação (Python, JavaScript, etc.)
-- Machine Learning
-- Banco de Dados
+- Resolução de Problemas Técnicos
+- Desenvolvimento Web (HTML, CSS, JavaScript)
+- Linguagens de Programação (C, C#, PHP)
+- Banco de Dados (SQL)
+- Plataformas: VTEX,
+- Inglês (Fluente)
 
 <!-- Seção de estatísticas do GitHub com cor personalizada -->
 ## Minhas Estatísticas no GitHub
 
-[![Minhas Estatísticas no GitHub](https://github-readme-stats.vercel.app/api?username=leonardomiranda132&show_icons=true&theme=radical&title_color=0077B5)](https://github.com/leonardomiranda132)
+![Minhas Estatísticas no GitHub](https://github-readme-stats.vercel.app/api?username=leonardomiranda132&show_icons=true&theme=radical&title_color=0077B5)
+
 
 <!-- LinkedIn e GitHub alinhados -->
 <div align="center">
