@@ -3,6 +3,16 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0077B5&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Leonardo+Miranda;I+am+a+student+of+analysis+and+Systems+Development;In+the+Estácio+de+Sá+University+of+Juiz+de+Fora;Be+welcome!)](https://git.io/typing-svg)
 
+
+
+<!-- Seção de contador de visitantes -->
+<div align="center">
+  <br>
+  <p align="center" style="color:#0077B5"><b>Visitors Count</b></p>
+  <p align="center" style="color:#0077B5"><img align="center" src="https://profile-counter.glitch.me/leonardomiranda132/count.svg" /></p>
+  <br>
+</div>
+
 <!-- Seção de Bio -->
 ## Sobre Mim
 
@@ -12,17 +22,7 @@ Atualmente, atuo como Analista de Suporte Técnico na empresa Alphabeto, onde de
 
 Estou comprometido com a excelência e apaixonado por explorar novas tecnologias. Além das habilidades técnicas, possuo fluência em inglês e estou sempre em busca de desafios que possam expandir meu conhecimento e contribuir para projetos inovadores.
 
-Fique à vontade para entrar em contato comigo através do [e-mail](mailto:leonardomirandasjn@gmail.com) ou [LinkedIn](https://www.linkedin.com/in/leonardo-miranda-437335252/).
-
 Vamos construir o futuro juntos!
-
-<!-- Seção de contador de visitantes -->
-<div align="center">
-  <br>
-  <p align="center" style="color:#0077B5"><b>Visitors Count</b></p>
-  <p align="center" style="color:#0077B5"><img align="center" src="https://profile-counter.glitch.me/leonardomiranda132/count.svg" /></p>
-  <br>
-</div>
 
 <!-- Seção de habilidades -->
 ## Minhas Habilidades
