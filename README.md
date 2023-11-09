@@ -21,5 +21,18 @@
   </a>
 </div>
 
+<!-- Seção de habilidades -->
+## Minhas Habilidades
+
+- Desenvolvimento Web
+- Linguagens de Programação (Python, JavaScript, etc.)
+- Machine Learning
+- Banco de Dados
+
+<!-- Seção de estatísticas do GitHub -->
+## Minhas Estatísticas no GitHub
+
+[![Minhas Estatísticas no GitHub](https://github-readme-stats.vercel.app/api?username=leonardomiranda132&show_icons=true&theme=radical)](https://github.com/leonardomiranda132)
+
 <!-- Seção do rodapé -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0077B5&height=120&section=footer"/>
