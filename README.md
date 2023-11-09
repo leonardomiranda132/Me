@@ -7,11 +7,12 @@
 <div align="center">
   <br>
   <p align="center" style="color:#0077B5"><b>Visitors Count</b></p>
-  <p align="center"><img align="center" src="https://profile-counter.glitch.me/leonardomiranda132/count.svg" /></p>
+  <p align="center"style="color:#0077B5"><img align="center" src="https://profile-counter.glitch.me/leonardomiranda132/count.svg" /></p>
   <br>
 </div>
 
 <!-- LinkedIn -->
+<div>
 <a href="https://www.linkedin.com/in/leonardo-miranda-437335252/">
   <img src="https://img.icons8.com/color/48/0077B5/linkedin.png" alt="LinkedIn" width="48" height="48" />
 </a>
@@ -20,6 +21,7 @@
 <a href="https://github.com/leonardomiranda132/">
   <img src="https://img.icons8.com/color/48/0077B5/github--v1.png" alt="GitHub" width="48" height="48" />
 </a>
+</div>
 
 <!-- Seção do rodapé -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0077B5&height=120&section=footer"/>
