@@ -32,7 +32,11 @@ Estou comprometido com a excelência e apaixonado por explorar novas tecnologias
 <!-- Seção de principais linguagens -->
 ## 🏆 Principais Linguagens
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leonardomiranda132&layout=compact&langs_count=6&theme=blue-green)
+<div align="center">
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardomiranda132&layout=compact&langs_count=6&theme=blue-green">
+</a></div>
+
+![Top Langs]()
 
 <!-- Bandeiras das linguagens -->
 <p align="center">
