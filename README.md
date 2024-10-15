@@ -53,7 +53,6 @@ Estou comprometido com a excelência e apaixonado por explorar novas tecnologias
   </a>
 </div>
 
-![Snake animation](https://github.com/leonardomiranda132/leonardomiranda132/blob/output/github-contribution-grid-snake.svg)
 
 <!-- Redes Sociais -->
 ## 🔗 Vamos nos Conectar
