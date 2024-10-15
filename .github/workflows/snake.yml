@@ -12,14 +12,15 @@ jobs:
 
     steps:
       # Snake Animation
-      - uses: Platane/snk@master
+      - uses: Platane/snk@v2.2.0  # Atualize para a última versão estável
         id: snake-gif
         with:
           github_user_name: leonardomiranda132  # Substitua pelo seu nome de usuário
           svg_out_path: dist/github-contribution-grid-snake.svg
 
       # Publicar a animação no GitHub Pages
-      - uses: crazy-max/ghaction-github-pages@v2.1.3
+      - name: Deploy Snake
+        uses: crazy-max/ghaction-github-pages@v3  # Atualizado para v3
         with:
           target_branch: output
           build_dir: dist
