@@ -53,6 +53,8 @@ Estou comprometido com a excelência e apaixonado por explorar novas tecnologias
   </a>
 </div>
 
+![Snake animation](https://github.com/leonardomiranda132/leonardomiranda132/blob/output/github-contribution-grid-snake.svg)
+
 <!-- Redes Sociais -->
 ## 🔗 Vamos nos Conectar
 
@@ -69,7 +71,7 @@ Estou comprometido com a excelência e apaixonado por explorar novas tecnologias
 </div>
 
 
-![Snake animation](https://github.com/leonardomiranda132/leonardomiranda132/blob/output/github-contribution-grid-snake.svg)
+
 
 <!-- Seção do rodapé -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0077B5&height=120&section=footer"/>
