@@ -1,8 +1,7 @@
 <!-- Seção do cabeçalho -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0077B5&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0077B5&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Leonardo+Miranda;I+am+a+student+of+Analysis+and+Systems+Development;At+Estácio+de+Sá+University+of+Juiz+de+Fora;Welcome!)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0077B5&size=35&center=true&vCenter=true&width=1000&lines=Hello,+I'm+Leonardo+Miranda;Systems+Development+Student;Welcome!)](https://git.io/typing-svg)
 <!-- Seção de Bio -->
 ## 👨‍💻 Sobre Mim
 
@@ -71,3 +70,5 @@ Estou comprometido com a excelência e apaixonado por explorar novas tecnologias
 
 <!-- Seção do rodapé -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0077B5&height=120&section=footer"/>
+
+![Snake animation](https://github.com/leonardomiranda132/leonardomiranda132/blob/output/github-contribution-grid-snake.svg)
